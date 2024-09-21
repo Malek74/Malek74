@@ -19,7 +19,6 @@ Here are some of the technologies and tools I work with:
 ## Achievements
 
 - **Outstanding Cambridge Learner Award**: Achieved the highest global score in Cambridge International A Level Computer Science.
-- **Outstanding Delegate Certificate**: Recognized for exceptional performance at the Cairo International Model United Nations (CIMUN).
 
 ## Contact
 

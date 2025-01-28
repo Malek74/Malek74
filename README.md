@@ -22,7 +22,7 @@ Here are some of the technologies and tools I work with:
 
 ## Contact
 
-- Email: [malek.mohamed12345678@gmail.com](mailto:malek.mohamed12345678@gmail.com)
+- Email: [malek.mohamed2@gmail.com](mailto:malek.mohamed12345678@gmail.com)
 - GitHub: [github.com/Malek74](https://github.com/Malek74)
 
 ---

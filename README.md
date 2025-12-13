@@ -1,6 +1,6 @@
 # Hello, I'm Malek Ali 👋
 
-I am a final-year **Computer Engineering** undergraduate at the **German University in Cairo (GUC)**, currently conducting my Bachelor Thesis research at the **University of Bonn** in Germany.
+I am a final-year **Computer Engineering** undergraduate at the **German University in Cairo (GUC)**, and conducted my Bachelor's Thesis research at the **University of Bonn** in Germany.
 
 My technical focus lies at the intersection of **Data Engineering**, **Applied AI**, and **Software Quality Automation**. I love building robust data pipelines, training uncertainty-aware deep learning models, and engineering automated testing frameworks that save hundreds of hours of manual work.
 
@@ -37,12 +37,12 @@ My technical focus lies at the intersection of **Data Engineering**, **Applied A
 ### 📊 [Real-Time Stock Portfolio Analytics](https://github.com/Malek74/YOUR-REPO-LINK)
 *An end-to-end data engineering pipeline for real-time market analysis.*
 - **Tech:** Python, Apache Kafka, Spark, Docker, PostgreSQL.
-- **Highlights:** Orchestrated containerized microservices to ingest, clean (KNN imputation), and stream trade data. Performed real-time aggregation on liquidity and sector performance.
+- **Highlights:** Orchestrated containerised microservices to ingest, clean (KNN imputation), and stream trade data. Performed real-time aggregation on liquidity and sector performance.
 
 ### 🌾 [Bachelor Thesis: Uncertainty-Aware Deep Learning](https://github.com/Malek74/YOUR-REPO-LINK)
 *Research conducted at the University of Bonn.*
 - **Tech:** PyTorch, Computer Vision, Python.
-- **Highlights:** Developed models to detect crop nutrient deficiencies utilizing high-res imagery. Analyzed trade-offs between predictive accuracy and uncertainty calibration to support risk-sensitive decision systems.
+- **Highlights:** Developed models to detect crop nutrient deficiencies utilising high-res imagery. Analysed trade-offs between predictive accuracy and uncertainty calibration to support risk-sensitive decision systems.
 
 ## 🏅 Honors & Awards
 

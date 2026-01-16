@@ -34,12 +34,12 @@ My technical focus lies at the intersection of **Data Engineering**, **Applied A
 
 ## 📂 Featured Projects
 
-### 📊 [Real-Time Stock Portfolio Analytics](https://github.com/Malek74/YOUR-REPO-LINK)
+### 📊 [Real-Time Stock Portfolio Analytics](https://github.com/Malek74/Real-Time-Stock-Portfolio-Analytics)
 *An end-to-end data engineering pipeline for real-time market analysis.*
 - **Tech:** Python, Apache Kafka, Spark, Docker, PostgreSQL.
 - **Highlights:** Orchestrated containerised microservices to ingest, clean (KNN imputation), and stream trade data. Performed real-time aggregation on liquidity and sector performance.
 
-### 🌾 [Bachelor Thesis: Uncertainty-Aware Deep Learning](https://github.com/Malek74/YOUR-REPO-LINK)
+### 🌾 [Bachelor Thesis: Uncertainty-Aware Deep Learning](https://github.com/Malek74/DND-SB)
 *Research conducted at the University of Bonn.*
 - **Tech:** PyTorch, Computer Vision, Python.
 - **Highlights:** Developed models to detect crop nutrient deficiencies utilising high-res imagery. Analysed trade-offs between predictive accuracy and uncertainty calibration to support risk-sensitive decision systems.
